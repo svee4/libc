@@ -1,0 +1,8 @@
+#!/bin/bash
+
+sh ./build && ./main "$@";
+ret_code=$?;
+
+if [ ! "$ret_code" = "0" ]; then
+	echo "\n\nreturn code: $ret_code";
+fi;

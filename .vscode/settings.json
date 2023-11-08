@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"syscall.h": "c",
+		"stdio.h": "c",
+		"print.h": "c",
+		"mman.h": "c",
+		"features.h": "c",
+		"types.h": "c",
+		"stddef.h": "c",
+		"mem.h": "c",
+		"_start.h": "c",
+		"string.h": "c",
+		"lib.h": "c",
+		"vec.h": "c"
+	}
+}

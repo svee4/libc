@@ -1,4 +1,4 @@
-Experimental C library from scratch for fun. Implemented with Linux x86_64 syscalls. Does not conform to C standard library specification because it sucks.
+## Experimental C library from scratch for fun. Implemented with Linux x86_64 syscalls. Does not conform to C standard library specification because it sucks.
 
 Features:
  - Wrapper around `_start`, so you can just define `main(int argc, char** argv[])`

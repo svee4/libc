@@ -4,6 +4,6 @@ Features:
  - Wrapper around `_start`, so you can just define `main(int argc, char** argv)`
  - Wrapper for syscalls
  - `malloc()` and `free()`
- - `string` with partial UTF8 support
+ - partial UTF8 support for char* functions
  - various `print` functions for stdout
  - implementations for `vec`, `list`, and `hashmap`
